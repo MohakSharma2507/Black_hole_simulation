@@ -36,20 +36,19 @@ How It Works
 	5.	The visual output is a dynamic display of photon paths around the black hole, highlighting gravitational lensing effects.
 
 How to Run
-	1.	Clone this repository:
+1.	Clone this repository:
+
+2.	Install the required dependencies:
+
+		pip install pygame
 
 
-	2.	Install the required dependencies:
+3.	Run the simulation:
 
-pip install pygame
-
-
-	3.	Run the simulation:
-
-python main.py
+		python main.py
 
 
-	4.	Enjoy the mesmerizing visuals of photons interacting with the black hole’s gravitational field!
+4.	Enjoy the mesmerizing visuals of photons interacting with the black hole’s gravitational field!
 
 Future Improvements
 	•	Implementing additional relativistic effects, such as time dilation.
