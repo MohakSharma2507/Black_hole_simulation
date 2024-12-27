@@ -38,9 +38,6 @@ How It Works
 How to Run
 	1.	Clone this repository:
 
-git clone https://github.com/yourusername/blackhole-m87-simulation.git
-cd blackhole-m87-simulation
-
 
 	2.	Install the required dependencies:
 
@@ -49,7 +46,7 @@ pip install pygame
 
 	3.	Run the simulation:
 
-python blackhole_m87_simulation.py
+python main.py
 
 
 	4.	Enjoy the mesmerizing visuals of photons interacting with the black hole’s gravitational field!
